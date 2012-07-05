@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/nicholasyianilos/dev/here_spy'
+let g:netrw_dirhist_2='/Users/nicholasyianilos/learn/rails/hartl/sample_app/app/assets'
+let g:netrw_dirhist_3='/Users/nicholasyianilos/dev/here_spy'
+let g:netrw_dirhist_4='/Users/nicholasyianilos'
+let g:netrw_dirhist_5='/Users/nicholasyianilos/.rvm/gems/ruby-1.9.2-p180/gems/rails-3.1.0'
